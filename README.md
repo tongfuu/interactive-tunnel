@@ -1,6 +1,17 @@
 # Interactive Tunnel for Children with Postural and Intellectual Disabilities
 
 **More info in the report!**
+- abstract
+- background
+- ideation process
+- prototyping
+- decomposition/FAST analysis
+- methods
+- hazard analysis
+- regulatory pathway
+- evaluation
+- discussion
+- conclusion
 
 ## Demo
 video demo: https://www.youtube.com/channel/UC9Hpmn_VhsW2zUZRCOahGSQ
