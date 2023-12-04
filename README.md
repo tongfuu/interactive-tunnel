@@ -1,6 +1,6 @@
 # Interactive Tunnel for Children with Postural and Intellectual Disabilities
 
-**More info in the report**
+**More info in the report!**
 
 ## Demo
 video demo: https://www.youtube.com/channel/UC9Hpmn_VhsW2zUZRCOahGSQ
