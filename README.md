@@ -24,11 +24,11 @@ Prototype
 ![prototype](Design/prototype.png)
 
 Tunnel external device final solution
-![final](Design/final_design.png)
+![final](Design/final_design.JPG)
 
 Optimized PCB 
 ![pcb](Design/pcb.png)
 
 Real-world testing
-![real](Design/real_application.png)
+![real](Design/real_application.jpg)
 
